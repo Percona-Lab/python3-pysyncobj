@@ -1,0 +1,2 @@
+version=3
+https://github.com/bakwc/PySyncObj/releases .*/archive/(.*).tar.gz

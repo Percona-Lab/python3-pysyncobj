@@ -1,0 +1,5 @@
+python3-pysyncobj (0.3.10-1) unstable; urgency=medium
+
+  * Initial upload.
+
+ -- Vadim Yalovets <vadim.yalovets@percona.com>  Fri, 6 May 2022 09:30:41 +0200
