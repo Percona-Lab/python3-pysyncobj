@@ -1,4 +1,4 @@
-Source: pysyncobj
+Source: python3-pysyncobj
 Section: python
 Priority: optional
 Maintainer: Filipp Ozinov <fippo@mail.ru> 
